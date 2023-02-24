@@ -12,7 +12,7 @@
 
 // Your function code starts here...
 
-function rectArea(sideA, sideB){
+function rectArea(sideA, sideB) {
   return (sideA * sideB); 
 }
 
@@ -22,9 +22,9 @@ function rectArea(sideA, sideB){
 
 // Your code goes here:
 
-let room1 = rectArea(4,6)
-let room2 = rectArea(13,3)
-let room3 = rectArea(4,8)
+let room1 = rectArea(4,6);
+let room2 = rectArea(13,3);
+let room3 = rectArea(4,8);
 
 /**
  * =============================================================
@@ -38,8 +38,8 @@ let room3 = rectArea(4,8)
 
 // Your code goes here...
 
-function totalRoomsArea(area1, area2, area3){
-  return (area1 + area2 + area3)
+function totalRoomsArea(area1, area2, area3) {
+  return (area1 + area2 + area3);
 }
 
 // Make the function call in the parentheses of the console.log statement.
